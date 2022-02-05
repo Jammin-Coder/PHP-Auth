@@ -3,6 +3,6 @@
 
 ## Differences in this version:
 1. User ID's will be random strings.
-2. The every DB table is now varchar(32) instead of bigint.
+2. Every DB table that has a user ID is now varchar(32) instead of bigint.
 3. I'm sure I'll make for modifications!
 
